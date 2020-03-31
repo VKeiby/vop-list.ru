@@ -1,2 +1,2 @@
-# vop-list.ru
+# test git process
 python_test
