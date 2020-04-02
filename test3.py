@@ -25,3 +25,6 @@ def test_lessLetter():
     sortedDict = [('Vasya',44),('Fedor',33),('Sasha',11)]
     lessLetter(sortedDict)
     assert lessLetter(sortedDict) == 'S'
+
+
+def f():
